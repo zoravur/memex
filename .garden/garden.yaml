@@ -1,0 +1,8 @@
+title: Memex
+description: Zoravur's public memex
+vault: ..
+out: ../dist
+nav: folders
+home: "Home Page"          # note to open first; blank uses index.md, or generates an index page
+style: wiki
+# public_only: true   # publish only notes with "public: true" in their frontmatter
