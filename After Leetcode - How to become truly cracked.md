@@ -23,4 +23,4 @@ As a small bit of comfort, know that who you are working with often matters a lo
 [^1]: Further reading: https://www.amazon.ca/Good-They-Cant-Ignore-You/dp/1455509124
 [^2]:As much as I myself functional languages, I can't wholeheartedly recommend them because the job market for them is constrained, and also relatively stagnant, to the point where it'd be a serious career risk to concentrate entirely on a language like, say, Haskell.
 
-#blog
+#blog #wip
