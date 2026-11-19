@@ -1,1 +1,1 @@
-Built using github.com/zoravur/garden
+Built using [garden](https://github.com/zoravur/garden)
