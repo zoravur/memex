@@ -24,7 +24,9 @@ jobs:
           go-version: stable
           cache: false
       - name: Install garden
-        run: go install github.com/zoravur/garden/cmd/garden@latest
+        run: go install github.com/zoravur/garden/cmd/garden@main
+        env:
+          GOPROXY: direct   # fetch from GitHub; proxy.golang.org serves @latest stale for a while after a push
       - name: Build site
         run: garden build -c .garden/garden.yaml -o "$GITHUB_WORKSPACE/_site"
       - uses: actions/upload-pages-artifact@v3
