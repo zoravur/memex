@@ -1,6 +1,6 @@
 [Matthew Butterick makes an excellent point about textbook sizes](https://www.youtube.com/watch?v=W-ryv6TwQvM)
 
-When Matthew Butterick compared "The C Programming Language" to the Applescript book (900 pages by the way!) it confirmed a belief that I had deep within me, and that is that attention is a crucial resource, and focusing it on a small working set of information is exactly the skill we need to be cultivating.
+When Matthew Butterick compared *The C Programming Language* to the Applescript book (900 pages by the way!) it confirmed a belief that I had deep within me, and that is that attention is a crucial resource, and focusing it on a small working set of information is exactly the skill we need to be cultivating.
 
 With generative AI, it's so easy to generate a large volume of low quality text. There's so much of it, that it permeates everything that exists online. 
 
