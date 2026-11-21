@@ -6,3 +6,5 @@ Some of the most complete pages worth reading:
 - [[Aspirational habits are just smaller goals]]
 - [[Informational Entropy]]
 - [[After Leetcode - How to become truly cracked]]
+- [[The Yerkes-Dodson law]]
+- [[The Systems Programming Frontier]]
